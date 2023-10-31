@@ -47,11 +47,5 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
+<img src="https://user-images.githubusercontent.com/7780269/57891608-3e096d00-7851-11e9-8e6c-6f58534ba3f5.png" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 732px; height: 300px; margin: 6.5px 0px; width: 1100px;" alt="GitHub - Erfaniaa/text-to-commit-history: Write a large text on your GitHub  profile, with your commits history (contribution graph)." jsname="kn3ccd" aria-hidden="false">
 
